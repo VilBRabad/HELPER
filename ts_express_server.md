@@ -27,7 +27,7 @@ project-root/
 ## Start:
 ### Init
 ```bash
-yarn add -D typeScript tsc-watch @types/express @types/express @types/cors
+yarn add -D typescript tsc-watch @types/express @types/express @types/cors
 
 # init typescript
 tsc --init
