@@ -219,7 +219,7 @@ export const User = mongoose.model("User", userSchema);
 ```
 
 
-## CURD Operations Using Mongoose
+## CRUD Operations Using Mongoose
 
 ```js
 // Find
